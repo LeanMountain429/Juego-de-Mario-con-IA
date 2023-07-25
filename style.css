@@ -1,0 +1,9 @@
+body{
+    background-image: url("Background.png");
+    background-size: cover;
+    font-family: 'Bungee Spice', cursive;
+}
+img{
+    width: 500px;
+    margin-top: 550px;
+}
